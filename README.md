@@ -1,3 +1,3 @@
-# CodeMonk
+# HackerEarth problems from various tracks.
 
-Problems from https://www.hackerearth.com/practice/codemonk/
+
